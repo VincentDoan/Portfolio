@@ -1,0 +1,8 @@
+C:\Users\Vincent\Desktop\Visual Studio\C#\TSI.BAE.Data\Test\bin\Debug\Test.exe.config
+C:\Users\Vincent\Desktop\Visual Studio\C#\TSI.BAE.Data\Test\bin\Debug\Test.exe
+C:\Users\Vincent\Desktop\Visual Studio\C#\TSI.BAE.Data\Test\bin\Debug\Test.pdb
+C:\Users\Vincent\Desktop\Visual Studio\C#\TSI.BAE.Data\Test\bin\Debug\TSI.BAE.Data.dll
+C:\Users\Vincent\Desktop\Visual Studio\C#\TSI.BAE.Data\Test\bin\Debug\TSI.BAE.Data.pdb
+C:\Users\Vincent\Desktop\Visual Studio\C#\TSI.BAE.Data\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Vincent\Desktop\Visual Studio\C#\TSI.BAE.Data\Test\obj\Debug\Test.exe
+C:\Users\Vincent\Desktop\Visual Studio\C#\TSI.BAE.Data\Test\obj\Debug\Test.pdb

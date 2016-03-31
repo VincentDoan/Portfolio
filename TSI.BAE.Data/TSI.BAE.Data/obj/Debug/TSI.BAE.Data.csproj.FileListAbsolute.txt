@@ -1,0 +1,5 @@
+C:\Users\Vincent\Desktop\Visual Studio\C#\TSI.BAE.Data\TSI.BAE.Data\bin\Debug\TSI.BAE.Data.dll
+C:\Users\Vincent\Desktop\Visual Studio\C#\TSI.BAE.Data\TSI.BAE.Data\bin\Debug\TSI.BAE.Data.pdb
+C:\Users\Vincent\Desktop\Visual Studio\C#\TSI.BAE.Data\TSI.BAE.Data\obj\Debug\TSI.BAE.Data.dll
+C:\Users\Vincent\Desktop\Visual Studio\C#\TSI.BAE.Data\TSI.BAE.Data\obj\Debug\TSI.BAE.Data.pdb
+C:\Users\Vincent\Desktop\Visual Studio\C#\TSI.BAE.Data\TSI.BAE.Data\obj\Debug\TSI.BAE.Data.csprojResolveAssemblyReference.cache

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TSI.BAE.Data.ChannelData">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>ChannelData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TSI.BAE.Data.ChannelDataList">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAEAA=</HashCode>
+      <FileName>ChannelDataList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TSI.BAE.Data.TestConfig">
+    <Position X="6.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JADAAAZAACAqQAAgCAAAIAQAAiBAAAAAAAAIAAAAiAA=</HashCode>
+      <FileName>TestConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TSI.BAE.Data.Global" Collapsed="true">
+    <Position X="3.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TestData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TSI.BAE.Data.TestData">
+    <Position X="0.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQACAAEAAgBAAAAAIAAAACAAAAAAAAAAIAAQAAAAEAA=</HashCode>
+      <FileName>TestData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TSI.BAE.Data.UUTInformation">
+    <Position X="5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAgAAAAAIAAAAAAAAAAAAAAAYAIAAEACA=</HashCode>
+      <FileName>UUTInformation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
