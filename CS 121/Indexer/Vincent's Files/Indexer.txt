@@ -1,0 +1,26 @@
+#Below is the code to index all the text of websites into separate text files ranging from
+#1 through n websites
+#It requires 2 text files in the Project Folder: Count and Hash
+#The count requires one number 0 to represent the website's ID as well as the count of websites we have crawled and indexed
+#The script should continually increment the count in the text file
+#Put it in HandleData and run it to collect our pages
+
+
+	f = open("Count.txt", 'r')
+        count = int(f.readline())
+        f.close()
+        count = count + 1
+        print count
+        f = open("Count.txt", "w")
+        f.write("%s" % count)
+        f.close()
+
+        string = str(count) + ".txt"
+        f = open(string, "w")
+        f.write(parsedData["text"].encode('utf-8') + "\n")
+       
+        f2 = open("Hash.txt", "a")
+        print parsedData["url"]
+        print "\n"
+        f2.write(str(count) + "\t"+ parsedData["url"] + "\n")
+        f2.close()
