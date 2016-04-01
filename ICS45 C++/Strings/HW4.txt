@@ -1,0 +1,17 @@
+Part 3.
+
+Give an estimate of the relative efficiency of each of the following two assignments (I mean how many function calls, how many copies are made, etc): 
+String s("Hello");
+String t("There");
+s = s + t;
+s += t;
+
+
+s calls the constructor once and stringToList as well as makes as many nodes necessary. It returns a copy to the constructor.
+t does the same.
+
+s = s + t; 
+
+s + t calls copy as well as concat, makes a copy of the concatenated string and assigns it to s.
+
+s+= t does the same except it doesn't make another copy, it concatenates it to s memory location.
